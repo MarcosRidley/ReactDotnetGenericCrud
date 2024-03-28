@@ -1,0 +1,1 @@
+C:\Users\marco\source\repos\GenericFullstackApp\genericfullstackapp.client\obj\Debug\genericfullstackapp.client.esproj.CoreCompileInputs.cache

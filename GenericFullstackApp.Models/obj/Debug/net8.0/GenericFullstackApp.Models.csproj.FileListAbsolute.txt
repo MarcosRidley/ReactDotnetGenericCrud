@@ -1,0 +1,11 @@
+C:\Users\marco\source\repos\GenericFullstackApp\GenericFullstackApp.Models\bin\Debug\net8.0\GenericFullstackApp.Models.deps.json
+C:\Users\marco\source\repos\GenericFullstackApp\GenericFullstackApp.Models\bin\Debug\net8.0\GenericFullstackApp.Models.dll
+C:\Users\marco\source\repos\GenericFullstackApp\GenericFullstackApp.Models\bin\Debug\net8.0\GenericFullstackApp.Models.pdb
+C:\Users\marco\source\repos\GenericFullstackApp\GenericFullstackApp.Models\obj\Debug\net8.0\GenericFullstackApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\GenericFullstackApp\GenericFullstackApp.Models\obj\Debug\net8.0\GenericFullstackApp.Models.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\GenericFullstackApp\GenericFullstackApp.Models\obj\Debug\net8.0\GenericFullstackApp.Models.AssemblyInfo.cs
+C:\Users\marco\source\repos\GenericFullstackApp\GenericFullstackApp.Models\obj\Debug\net8.0\GenericFullstackApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\GenericFullstackApp\GenericFullstackApp.Models\obj\Debug\net8.0\GenericFullstackApp.Models.dll
+C:\Users\marco\source\repos\GenericFullstackApp\GenericFullstackApp.Models\obj\Debug\net8.0\refint\GenericFullstackApp.Models.dll
+C:\Users\marco\source\repos\GenericFullstackApp\GenericFullstackApp.Models\obj\Debug\net8.0\GenericFullstackApp.Models.pdb
+C:\Users\marco\source\repos\GenericFullstackApp\GenericFullstackApp.Models\obj\Debug\net8.0\ref\GenericFullstackApp.Models.dll

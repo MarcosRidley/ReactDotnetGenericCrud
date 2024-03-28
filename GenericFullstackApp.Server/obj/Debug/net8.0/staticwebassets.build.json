@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "JwK13/mE8zZV3rzzGwEUeBCfmHEp6EQhWezZLSqq8e0=",
+  "Source": "GenericFullstackApp.Server",
+  "BasePath": "_content/GenericFullstackApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\marco\\source\\repos\\GenericFullstackApp\\genericfullstackapp.client\\genericfullstackapp.client.esproj",
+      "Version": 2,
+      "Source": "genericfullstackapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

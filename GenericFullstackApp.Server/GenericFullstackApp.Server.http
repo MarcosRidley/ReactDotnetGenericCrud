@@ -1,0 +1,6 @@
+@GenericFullstackApp.Server_HostAddress = http://localhost:5193
+
+GET {{GenericFullstackApp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
